@@ -1,0 +1,4 @@
+This python project is helpful for converting any given text into speech. 
+We import thr gTTS module for this project.
+Using this module we convert the given text file feom the user to speech.
+The given text file is opened and read by the project and it is given as a parameter to the gTTs method.
